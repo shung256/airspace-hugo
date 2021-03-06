@@ -1,7 +1,7 @@
 ---
 title: Discounted Cash Flow Valuation
 date: 2019-03-29T05:07:10+00:00
-author: John Doe
+author: George Paladino
 image: images/blog/blog-post-4.jpg
 bg_image: images/featue-bg.jpg
 categories:
