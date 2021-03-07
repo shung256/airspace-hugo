@@ -30,7 +30,7 @@ portfolio:
   content: " Here are the ideas we believe"
   button:
     enable: true
-    label: View Works
+    label: Check our Works
     link: project
 service:
   enable: true
