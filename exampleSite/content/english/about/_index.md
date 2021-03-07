@@ -1,6 +1,6 @@
 ---
 title: About Our Company
-description: Our company is dedicated to Assignment Consulting
+description: Our company specialises in assignment consulting
 bg_image: images/featue-bg.jpg
 
 ---
