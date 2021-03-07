@@ -13,14 +13,13 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: Far far away, CHECK
   content: |-
     We have extensive experience in assignment consulting
 
     Choose us and you will never regret!
   image: images/wrapper-img.png
+  funfacts: []
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
