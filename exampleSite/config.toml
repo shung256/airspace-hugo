@@ -155,7 +155,7 @@ mobile = "0124857985320"
 multi_author = false
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "20"
 [params.gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
