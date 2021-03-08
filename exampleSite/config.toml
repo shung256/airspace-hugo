@@ -143,7 +143,7 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "HKAcademic"
 contact_form_action = "#"
 description = "This is meta description"
 email = "demo@email.com"
