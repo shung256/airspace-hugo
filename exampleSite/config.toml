@@ -150,7 +150,7 @@ email = "demo@email.com"
 google_analitycs_id = ""
 location = "London, Sydney, Singapore"
 logo = "images/logomakr-8srv9e.png"
-logo_width = "120px"
+logo_width = "150px"
 mobile = "0124857985320"
 multi_author = false
 [params.cookies]
